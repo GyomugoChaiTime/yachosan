@@ -1,4 +1,4 @@
 yachosan
 ========
 
-Yet Another 調整さん（やっちょさん）
+Yet Another ちょー助／調整さん（やっちょさん）
