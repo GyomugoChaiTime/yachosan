@@ -1,4 +1,4 @@
 yachosan
 ========
 
-Yet Another ちょー助／調整さん（やっちょさん）
+Yet Another スケジュール調整／参加者管理ツール（やっちょさん）
